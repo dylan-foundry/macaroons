@@ -1,0 +1,11 @@
+{
+  "name": "macaroons",
+  "description": "",
+  "keywords": [
+  ],
+  "license": "MIT",
+  "default-target": "macaroons",
+  "tests": [
+    "macaroons-test-suite-app"
+  ]
+}
